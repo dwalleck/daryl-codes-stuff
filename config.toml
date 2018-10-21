@@ -1,0 +1,12 @@
+baseURL = "http://dwalleck.com/"
+languageCode = "en-us"
+title = "Daryl Walleck"
+theme= "hyde-hyde"
+
+[params]
+description = "Daryl Codes Stuff"
+
+[params.social]
+twitter = "darylwalleck"
+github = "dwalleck"
+linkedin = "darylwalleck"
